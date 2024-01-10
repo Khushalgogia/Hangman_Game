@@ -1,4 +1,4 @@
-![Alt text](152241700-6beb6cd4-62e4-4830-84c3-7b67997bae49.jpeg)
+![Alt text](image.png)
 
 # Hangman Game Predictor
 
